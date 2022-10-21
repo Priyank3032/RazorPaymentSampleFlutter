@@ -153,7 +153,7 @@ class _RazorDemoState extends State<RazorDemo> {
 
   void openCheckout(int amount) async {
     var options = {
-      'key': 'rzp_test_kr9H0EtjGaImn6',
+      'key': 'set your key',
       'amount': amount,
       'name': 'Acme Corp.',
       'description': 'Fine T-Shirt',
